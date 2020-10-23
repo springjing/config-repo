@@ -2,3 +2,4 @@ info:
   profile: dev
 name: config-dev
 words: this is a development environment 2020-10-22 add eureka server
+introduce: '{cipher}cdbb23c7b142ced0e4c40af2b199b1b1208a454a0de65018301ac1db9a9b395c0b0268af5e76b10569ee2e5d80ac20df'
